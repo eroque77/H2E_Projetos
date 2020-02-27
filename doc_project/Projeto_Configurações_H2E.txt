@@ -1,0 +1,24 @@
+1º Passo:
+    GIT:
+        GIT:
+            Site:  Baixar o git: https://git-scm.com/download/win
+        GITHUB:
+            Site:  https://github.com/
+            Login: eroque77
+            Senha: Helloween77#dev
+
+        CRIANDO UM REPOSITÓRIO: 
+            Nome:  H2E_Projetos
+            Descr: Repositório de Arquivos para o Site H2E - 2020
+            Tipo:  Public
+            lINK:  https://github.com/eroque77/H2E_Projetos.git        [http]
+                   git@github.com:eroque77/H2E_Projetos.git            [ssh]
+
+        CLONANDO UM REPOSITÓRIO:
+            Via terminal VSCODE: git clone https://github.com/eroque77/H2E_Projetos.git .  * O ponto já clona a própria pasta
+
+
+2º Passo:
+    LARAVEL:    
+        CONFIGURAÇÕES:
+            Application key [base64:t6+dZvKQ9w1GI4jHo8yKJhm4sW/3IsNjlK1q438kwrY=]
