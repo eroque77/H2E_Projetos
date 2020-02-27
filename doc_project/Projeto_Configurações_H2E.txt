@@ -17,6 +17,9 @@
         CLONANDO UM REPOSITÓRIO:
             Via terminal VSCODE: git clone https://github.com/eroque77/H2E_Projetos.git .  * O ponto já clona a própria pasta
 
+        SUBINDO AO REPOSITÓRIO: PRIMEIRA VEZ
+            Commit e Depois publicar changes
+
 
 2º Passo:
     LARAVEL:    
