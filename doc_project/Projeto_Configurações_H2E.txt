@@ -22,6 +22,8 @@
 
 
 2º Passo:
-    LARAVEL:    
+    LARAVEL:  
+        INSTALAÇÃO:
+            composer create-project --prefer-dist laravel/laravel H2E "5.4.*"  
         CONFIGURAÇÕES:
             Application key [base64:t6+dZvKQ9w1GI4jHo8yKJhm4sW/3IsNjlK1q438kwrY=]
